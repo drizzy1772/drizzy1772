@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python & JavaScript Backend Developer<br>I create server-side applications using Django and FastAPI. I enjoy clear architecture, efficient APIs, and projects that solve real problems.
+Python & Java Backend Developer<br>I create server-side applications using Django and FastAPI. I enjoy clear architecture, efficient APIs, and projects that solve real problems.
 
 
 ## 🌐 Socials:
