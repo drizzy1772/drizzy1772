@@ -1,6 +1,8 @@
 # 💫 About Me:
 Python & Java Backend Developer<br>I create server-side applications using Django and FastAPI. I enjoy clear architecture, efficient APIs, and projects that solve real problems.
 
+This is a fresh profile where I'll be uploading some projects, experiments, and things I'm currently working on.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/writnexi09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyydarl7ng)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/montana91018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bodyafrozen890@gmail.com) 
