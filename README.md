@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Bohdan, a Backend Developer based in Ukraine
+I'm Bohdan, check info about me down!
 
 Python & Java Backend Developer<br>I create server-side applications using Django and FastAPI. I enjoy clear architecture, efficient APIs, and projects that solve real problems.
 
