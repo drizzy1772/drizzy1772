@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Bohdan, check info about me down!
 
-Python & Java Backend Developer<br>I create server-side applications using Django and FastAPI. I enjoy clear architecture, efficient APIs, and projects that solve real problems.
+Python Backend Developer<br>I create server-side applications using Django and FastAPI. I enjoy clear architecture, efficient APIs, and projects that solve real problems.
 
 This is a fresh profile where I'll be uploading some projects, experiments, and things I'm currently working on.
 
