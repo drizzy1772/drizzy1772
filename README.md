@@ -1,5 +1,6 @@
 # Hi 👋, I'm Bohdan:
 
+## Python Backend Developer | REST APIs & Async Systems
 
 
 ## About me
