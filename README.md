@@ -1,5 +1,4 @@
-# Hi 👋, I'm Bohdan:
-
+<p align="center"> Hi 👋, I'm Bohdan:</p>
 ## Python Backend Developer | REST APIs & Async Systems
 
 
