@@ -1,6 +1,6 @@
 <p align="center"><b>Hi 👋, I'm Bohdan:</b></p>
 <p align="center"><b>Python Backend Developer | REST APIs & Async Systems</b></p>
-<p align="center">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bohdan-ryzhenko-582ba3397)</p>
+
 
 
 ## About me
@@ -8,7 +8,7 @@
 production-ready store backend with JWT auth, email verification, order state machine, Redis caching, and CI/CD via GitHub Actions<br>Content Analytics API — async action logging pipeline (Redis → Celery → Postgres), personalized feed algorithm, rate limiting, and Dockerized infrastructure<br>BookStore API — async SQLAlchemy 2.0, Alembic migrations, role-based access, and full pytest coverage<br><br><br>💫 About Me<br><br>🔭 Currently focused on FastAPI, async systems, and distributed task processing<br>🛠️ Building real-world projects covering auth, caching, background jobs, and CI/CD<br>🌱 Deepening knowledge in System Design, Clean Architecture, and Cloud Infrastructure<br>🤝 Open to collaboration on interesting backend projects<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bohdan-ryzhenko-582ba3397) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32877049) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bogdanryzhenko0912@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bohdan-ryzhenko-582ba3397)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bohdan-ryzhenko-582ba3397) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32877049) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bogdanryzhenko0912@gmail.com) 
 
 
 
