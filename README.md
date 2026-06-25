@@ -1,5 +1,5 @@
-<p align="center"> Hi 👋, I'm Bohdan:</p>
-<p align="center">Python Backend Developer | REST APIs & Async Systems</p>
+<p align="center"><b>Hi 👋, I'm Bohdan:</b></p>
+<p align="center"><b>Python Backend Developer | REST APIs & Async Systems</b></p>
 
 
 ## About me
