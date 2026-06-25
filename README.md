@@ -7,7 +7,7 @@
 <br>Junior Python Backend Developer with **1+** year in backend development, specializing in building scalable **microservices** and high-performance **APIs** with FastAPI, PostgreSQL, and Redis.<br>
 
 ## Featured Projects
-<br>[E-commerce API](https://github.com/drizzy1772/E-commerce-API)
+<br>[**E-commerce API**](https://github.com/drizzy1772/E-commerce-API)
 production-ready store backend with JWT auth, email verification, order state machine, Redis caching, and CI/CD via GitHub Actions<br>Content Analytics API — async action logging pipeline (Redis → Celery → Postgres), personalized feed algorithm, rate limiting, and Dockerized infrastructure<br>BookStore API — async SQLAlchemy 2.0, Alembic migrations, role-based access, and full pytest coverage<br><br><br>💫 About Me<br><br>🔭 Currently focused on FastAPI, async systems, and distributed task processing<br>🛠️ Building real-world projects covering auth, caching, background jobs, and CI/CD<br>🌱 Deepening knowledge in System Design, Clean Architecture, and Cloud Infrastructure<br>🤝 Open to collaboration on interesting backend projects<br><br>
 
 # 💻 Tech Stack:
