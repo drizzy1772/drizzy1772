@@ -1,6 +1,6 @@
 <p align="center"><b>Hi 👋, I'm Bohdan:</b></p>
 <p align="center"><b>Python Backend Developer | REST APIs & Async Systems</b></p>
-<p align="center"><b>Specializing in building scalable microservices, optimizing legacy systems, and integrating AI solutions.</b></p>
+<p align="center"><b>*Specializing in building microservices, backend systems, system design*</b></p>
 
 
 ## About me
