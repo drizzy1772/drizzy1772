@@ -4,7 +4,7 @@
 
 
 ## About me
-<br>Junior Python Backend Developer with **1+** year in backend development, specializing in building scalable **microservices** and high-performance **APIs** with FastAPI, PostgreSQL, and Redis.<br>
+<br>Junior Python Backend Developer, specializing in building scalable **microservices** and high-performance **APIs** with FastAPI, PostgreSQL, and Redis.<br>
 
 ## Featured Projects
 <br>[**E-commerce API**](https://github.com/drizzy1772/E-commerce-API):
