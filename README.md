@@ -14,6 +14,7 @@
 <br>[**BookStore API**](https://github.com/drizzy1772/BookAPIshka):
 <br>Book-Store RESTAPI with **SQLAlchemy**, **Alembic**, **PostgreSQL**,  **JWT**<br><br><br>💫 About Me<br><br>🔭 Currently focused on FastAPI, async systems, and distributed task processing<br>🛠️ Building real-world projects covering auth, caching, background jobs, and CI/CD<br>🌱 Deepening knowledge in System Design, Clean Architecture, and Cloud Infrastructure<br>🤝 Open to collaboration on interesting backend projects<br><br>
 
+
 # 💻 Tech Stack:
 
 ## Languages & Frameworks
