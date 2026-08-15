@@ -34,7 +34,6 @@
 
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bohdan-ryzhenko-582ba3397) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32877049) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bogdanryzhenko0912@gmail.com)
 
