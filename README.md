@@ -18,7 +18,7 @@
 # 💻 Tech Stack:
 
 ## Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -44,46 +44,4 @@
 ![](https://github-readme-stats.shion.dev/api?username=drizzy1772&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=drizzy1772&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=drizzy1772&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=drizzy1772&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 💻 Tech Stack:
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anitamaxwynnnnnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anitamaxwynnnnnn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anitamaxwynnnnnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=anitamaxwynnnnnn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-# 💻 Tech Stack:
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=svdbdbfbfg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=svdbdbfbfg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=svdbdbfbfg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=svdbdbfbfg&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
